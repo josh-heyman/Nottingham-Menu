@@ -3,25 +3,25 @@
         "week-1": [
             "23/09",
             "14/10",
-            "4/11",
+            "04/11",
             "25/11"
         ],
         "week-2": [
             "30/09",
             "21/10",
             "11/11",
-            "2/12"
+            "02/12"
         ],
         "week-3": [
-            "7/10",
+            "07/10",
             "28/10",
             "18/11",
-            "9/12"
+            "09/12"
         ]
     },
     "menu": {
         "week-1": {
-            "monday": {
+            "Monday": {
                 "main": [
                     "Jerk chicken drumsticks",
                     "Caribbean style fruity curry (v)",
@@ -37,7 +37,7 @@
                     "Apple strudel with cinnamon cream"
                 ]
             },
-            "tuesday": {
+            "Tuesday": {
                 "main": [
                     "Chef's Special",
                     "Penne with Arrabiata sauce (vg)"
@@ -45,7 +45,7 @@
                 "side": [],
                 "dessert": []
             },
-            "wednesday": {
+            "Wednesday": {
                 "main": [
                     "Creamy pesto chicken supreme",
                     "Chargrilled vegetable gnocchi (v)",
@@ -62,7 +62,7 @@
                     "Salted caramel popcorn pots"
                 ]
             },
-            "thursday": {
+            "Thursday": {
                 "main": [
                     "Shish kebabs served with a flatbread",
                     "Spinach and feta filo parcels (v)",
@@ -78,7 +78,7 @@
                     "Juicy Lucy pudding"
                 ]
             },
-            "friday": {
+            "Friday": {
                 "main": [
                     "Fish goujon sub with aioli and watercress",
                     "Quorn marinara meatball sub (v)",
@@ -94,7 +94,7 @@
                     "Frosted strawberry cake"
                 ]
             },
-            "saturday": {
+            "Saturday": {
                 "main": [
                     "Barbecue pulled pork in a brioche bun",
                     "Spinach and bean enchilada with spicy white sauce (v)",
@@ -130,7 +130,7 @@
             }
         },
         "week-2": {
-            "monday": {
+            "Monday": {
                 "main": [
                     
                 ],
@@ -141,14 +141,14 @@
                     
                 ]
             },
-            "tuesday": {
+            "Tuesday": {
                 "main": [
                     
                 ],
                 "side": [],
                 "dessert": []
             },
-            "wednesday": {
+            "Wednesday": {
                 "main": [
                     
                 ],
@@ -159,7 +159,7 @@
                     
                 ]
             },
-            "thursday": {
+            "Thursday": {
                 "main": [
                     
                 ],
@@ -170,7 +170,7 @@
                     
                 ]
             },
-            "friday": {
+            "Friday": {
                 "main": [
                     
                 ],
@@ -181,7 +181,7 @@
                     
                 ]
             },
-            "saturday": {
+            "Saturday": {
                 "main": [
                     
                 ],
@@ -192,7 +192,7 @@
                     
                 ]
             },
-            "sunday": {
+            "Sunday": {
                 "main": [
                     
                 ],
@@ -205,7 +205,7 @@
             }
         },
         "week-3": {
-            "monday": {
+            "Monday": {
                 "main": [
                     
                 ],
@@ -216,14 +216,14 @@
                     
                 ]
             },
-            "tuesday": {
+            "Tuesday": {
                 "main": [
                     
                 ],
                 "side": [],
                 "dessert": []
             },
-            "wednesday": {
+            "Wednesday": {
                 "main": [
                     
                 ],
@@ -234,7 +234,7 @@
                     
                 ]
             },
-            "thursday": {
+            "Thursday": {
                 "main": [
                     
                 ],
@@ -245,7 +245,7 @@
                     
                 ]
             },
-            "friday": {
+            "Friday": {
                 "main": [
                     
                 ],
@@ -256,7 +256,7 @@
                     
                 ]
             },
-            "saturday": {
+            "Saturday": {
                 "main": [
                     
                 ],
@@ -267,7 +267,7 @@
                     
                 ]
             },
-            "sunday": {
+            "Sunday": {
                 "main": [
                     
                 ],
