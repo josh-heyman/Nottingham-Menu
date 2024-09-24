@@ -1,0 +1,283 @@
+{
+    "weeks": {
+        "week-1": [
+            "23/09",
+            "14/10",
+            "4/11",
+            "25/11"
+        ],
+        "week-2": [
+            "30/09",
+            "21/10",
+            "11/11",
+            "2/12"
+        ],
+        "week-3": [
+            "7/10",
+            "28/10",
+            "18/11",
+            "9/12"
+        ]
+    },
+    "menu": {
+        "week-1": {
+            "monday": {
+                "main": [
+                    "Jerk chicken drumsticks",
+                    "Caribbean style fruity curry (v)",
+                    "Coconut and green lentil curry (vg)",
+                    "Linguine with soya mince bolognaise (vg)"
+                ],
+                "side": [
+                    "White and brown rice",
+                    "Steamed broccoli",
+                    "Curried cauliflower"
+                ],
+                "dessert": [
+                    "Apple strudel with cinnamon cream"
+                ]
+            },
+            "tuesday": {
+                "main": [
+                    "Chef's Special",
+                    "Penne with Arrabiata sauce (vg)"
+                ],
+                "side": [],
+                "dessert": []
+            },
+            "wednesday": {
+                "main": [
+                    "Creamy pesto chicken supreme",
+                    "Chargrilled vegetable gnocchi (v)",
+                    "Smoked tofu and sundried tomato risotto (vg)",
+                    "Farfalle with tomato andbasil sauce (vg)"
+                ],
+                "side": [
+                    "Lyonnaise potatoes",
+                    "Garlic bread",
+                    "Peas",
+                    "Baton carrots"
+                ],
+                "dessert": [
+                    "Salted caramel popcorn pots"
+                ]
+            },
+            "thursday": {
+                "main": [
+                    "Shish kebabs served with a flatbread",
+                    "Spinach and feta filo parcels (v)",
+                    "Assorted falafels with flat bread (vg)",
+                    "Fusilli with alfredo sauce (v)"
+                ],
+                "side": [
+                    "Seasoned wedges",
+                    "Harissa roasted carrots",
+                    "Green beans"
+                ],
+                "dessert": [
+                    "Juicy Lucy pudding"
+                ]
+            },
+            "friday": {
+                "main": [
+                    "Fish goujon sub with aioli and watercress",
+                    "Quorn marinara meatball sub (v)",
+                    "Southern fried Quorn sub with plant-based garlic mayo and watercress (vg)",
+                    "Spaghetti with tomato and chilli sauce (vg)"
+                ],
+                "side": [
+                    "Fries",
+                    "Mushy peas",
+                    "Baked beans"
+                ],
+                "dessert": [
+                    "Frosted strawberry cake"
+                ]
+            },
+            "saturday": {
+                "main": [
+                    "Barbecue pulled pork in a brioche bun",
+                    "Spinach and bean enchilada with spicy white sauce (v)",
+                    "Spiced butternut squash taco (vg)"
+                ],
+                "side": [
+                    "Tater-tots",
+                    "Guacamole, salsa, and sour",
+                    "cream",
+                    "Homemade slaw",
+                    "Mexican sweetcorn"
+                ],
+                "dessert": [
+                    "Iced yum-yums"
+                ]
+            },
+            "sunday": {
+                "main": [
+                    "Beef bourguignon with a crusty roll",
+                    "Smoked paprika pork steak",
+                    "Vegetable and Cheddar hotpot (v)",
+                    "Plant based ‘steak style’ pie (vg)"
+                ],
+                "side": [
+                    "Steamed buttered potatoes",
+                    "Cauliflower",
+                    "Sliced carrots",
+                    "Gravy"
+                ],
+                "dessert": [
+                    "Sponge squares"
+                ]
+            }
+        },
+        "week-2": {
+            "monday": {
+                "main": [
+                    
+                ],
+                "side": [
+                    
+                ],
+                "dessert": [
+                    
+                ]
+            },
+            "tuesday": {
+                "main": [
+                    
+                ],
+                "side": [],
+                "dessert": []
+            },
+            "wednesday": {
+                "main": [
+                    
+                ],
+                "side": [
+                    
+                ],
+                "dessert": [
+                    
+                ]
+            },
+            "thursday": {
+                "main": [
+                    
+                ],
+                "side": [
+                    
+                ],
+                "dessert": [
+                    
+                ]
+            },
+            "friday": {
+                "main": [
+                    
+                ],
+                "side": [
+                    
+                ],
+                "dessert": [
+                    
+                ]
+            },
+            "saturday": {
+                "main": [
+                    
+                ],
+                "side": [
+                    
+                ],
+                "dessert": [
+                    
+                ]
+            },
+            "sunday": {
+                "main": [
+                    
+                ],
+                "side": [
+                    
+                ],
+                "dessert": [
+                    
+                ]
+            }
+        },
+        "week-3": {
+            "monday": {
+                "main": [
+                    
+                ],
+                "side": [
+                    
+                ],
+                "dessert": [
+                    
+                ]
+            },
+            "tuesday": {
+                "main": [
+                    
+                ],
+                "side": [],
+                "dessert": []
+            },
+            "wednesday": {
+                "main": [
+                    
+                ],
+                "side": [
+                    
+                ],
+                "dessert": [
+                    
+                ]
+            },
+            "thursday": {
+                "main": [
+                    
+                ],
+                "side": [
+                    
+                ],
+                "dessert": [
+                    
+                ]
+            },
+            "friday": {
+                "main": [
+                    
+                ],
+                "side": [
+                    
+                ],
+                "dessert": [
+                    
+                ]
+            },
+            "saturday": {
+                "main": [
+                    
+                ],
+                "side": [
+                    
+                ],
+                "dessert": [
+                    
+                ]
+            },
+            "sunday": {
+                "main": [
+                    
+                ],
+                "side": [
+                    
+                ],
+                "dessert": [
+                    
+                ]
+            }
+        }
+    }
+}
