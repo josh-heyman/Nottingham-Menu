@@ -1,11 +1,13 @@
 # Nottingham-Menu
 University of Nottingham Catered Halls Menu Siri Shortcut
 
-***
+<hr>
+
 1. Download the shortcut below
 2. Ask Siri `"What's for Dinner?"`
 3. Click "Allow" to grant access to the menu
-***
+
+<hr>
 
 [Get the shortcut](https://www.icloud.com/shortcuts/1729bf60a9a84c3ebbb89c4561f66fc0)
 
