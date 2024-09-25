@@ -1,0 +1,328 @@
+{
+    "weeks": {
+        "week-1": [
+            "23/09",
+            "14/10",
+            "04/11",
+            "25/11"
+        ],
+        "week-2": [
+            "30/09",
+            "21/10",
+            "11/11",
+            "02/12"
+        ],
+        "week-3": [
+            "07/10",
+            "28/10",
+            "18/11",
+            "09/12"
+        ]
+    },
+    "menu": {
+        "week-1": {
+            "Monday": {
+                "main": [
+                    "Caribbean style fruity curry (v)",
+                    "Coconut and green lentil curry (vg)",
+                    "Linguine with soya mince bolognaise (vg)"
+                ],
+                "side": [
+                    "White and brown rice",
+                    "Steamed broccoli",
+                    "Curried cauliflower"
+                ],
+                "dessert": [
+                    "Apple strudel with cinnamon cream"
+                ]
+            },
+            "Tuesday": {
+                "main": [
+                    "Chef’s special",
+                    "An opportunity for your hall chef’s team to demonstrate their culinary skills"
+                ],
+                "side": [],
+                "dessert": []
+            },
+            "Wednesday": {
+                "main": [
+                    "Chargrilled vegetable gnocchi (v)",
+                    "Smoked tofu and sundried tomato risotto (vg)",
+                    "Farfalle with tomato andbasil sauce (vg)"
+                ],
+                "side": [
+                    "Lyonnaise potatoes",
+                    "Garlic bread",
+                    "Peas",
+                    "Baton carrots"
+                ],
+                "dessert": [
+                    "Salted caramel popcorn pots"
+                ]
+            },
+            "Thursday": {
+                "main": [
+                    "Spinach and feta filo parcels (v)",
+                    "Assorted falafels with flat bread (vg)",
+                    "Fusilli with alfredo sauce (v)"
+                ],
+                "side": [
+                    "Seasoned wedges",
+                    "Harissa roasted carrots",
+                    "Green beans"
+                ],
+                "dessert": [
+                    "Juicy Lucy pudding"
+                ]
+            },
+            "Friday": {
+                "main": [
+                    "Quorn marinara meatball sub (v)",
+                    "Southern fried Quorn sub with plant-based garlic mayo and watercress (vg)",
+                    "Spaghetti with tomato and chilli sauce (vg)"
+                ],
+                "side": [
+                    "Fries",
+                    "Mushy peas",
+                    "Baked beans"
+                ],
+                "dessert": [
+                    "Frosted strawberry cake"
+                ]
+            },
+            "Saturday": {
+                "main": [
+                    "Spinach and bean enchilada with spicy white sauce (v)",
+                    "Spiced butternut squash taco (vg)"
+                ],
+                "side": [
+                    "Tater-tots",
+                    "Guacamole, salsa, and sour",
+                    "cream",
+                    "Homemade slaw",
+                    "Mexican sweetcorn"
+                ],
+                "dessert": [
+                    "Iced yum-yums"
+                ]
+            },
+            "sunday": {
+                "main": [
+                    "Vegetable and Cheddar hotpot (v)",
+                    "Plant based ‘steak style’ pie (vg)"
+                ],
+                "side": [
+                    "Steamed buttered potatoes",
+                    "Cauliflower",
+                    "Sliced carrots",
+                    "Gravy"
+                ],
+                "dessert": [
+                    "Sponge squares"
+                ]
+            }
+        },
+        "week-2": {
+            "Monday": {
+                "main": [
+                    "Spinach and ricotta cannelloni (v)",
+                    "Quorn buffalo wings (vg)",
+                    "Linguine with red pesto (vg)"
+                ],
+                "side": [
+                    "Paprika dusted potato wedges",
+                    "Sauteed green cabbage with garlic",
+                    "Steamed broccoli"
+                ],
+                "dessert": [
+                    "Homemade chocolate fudge"
+                ]
+            },
+            "Tuesday": {
+                "main": [
+                    "Chef’s special",
+                    "An opportunity for your hall chef’s team to demonstrate their culinary skills"
+                ],
+                "side": [],
+                "dessert": []
+            },
+            "Wednesday": {
+                "main": [
+                    "Vegetable cottage pie (v)",
+                    "Samosa pie (vg)",
+                    "Spaghetti with marinara sauce (vg)"
+                ],
+                "side": [
+                    "Mashed potato",
+                    "Peas",
+                    "Baton carrots",
+                    "Gravy"
+                ],
+                "dessert": [
+                    "Strawberry and lemon curd mess"
+                ]
+            },
+            "Thursday": {
+                "main": [
+                    "Roasted wild mushroom risotto (v)",
+                    "Black bean and avocado enchiladas (vg)",
+                    "Fusilli with soya mince bolognaise (vg)"
+                ],
+                "side": [
+                    "Sauté potatoes",
+                    "Roasted cauliflower",
+                    "Green beans"
+                ],
+                "dessert": [
+                    "Oatmeal cake with whipped cream"
+                ]
+            },
+            "Friday": {
+                "main": [
+                    "Battered fish of the day",
+                    "Bean chilli mac (v)",
+                    "Crispy Quorn dippers with barbecue dip (vg)",
+                    "Farfalle with creamy mushroom and garlic sauce (v)"
+                ],
+                "side": [
+                    "Steakhouse fries",
+                    "Peas",
+                    "Sweetcorn"
+                ],
+                "dessert": [
+                    "Chocolate ganache tart"
+                ]
+            },
+            "Saturday": {
+                "main": [
+                    "Mock chicken wraps (v)",
+                    "Soya balti burrito (vg)"
+                ],
+                "side": [
+                    "Roasted sweet potato",
+                    "Guacamole, salsa and sour cream",
+                    "Mini corn on the cob",
+                    "Baked beans"
+                ],
+                "dessert": [
+                    "Ice cream"
+                ]
+            },
+            "Sunday": {
+                "main": [
+                    "Butternut squash and cherry tomato crumble (v)",
+                    "Keralan pasty (vg)"
+                ],
+                "side": [
+                    "Roast potatoes",
+                    "Farmhouse vegetables",
+                    "Gravy"
+                ],
+                "dessert": [
+                    "Assorted muffins"
+                ]
+            }
+        },
+        "week-3": {
+            "Monday": {
+                "main": [
+                    "Sweet and sour Quorn (v)",
+                    "Szechuan tofu (vg)",
+                    "Linguine with Neapolitan sauce (vg)"
+                ],
+                "side": [
+                    "Brown and white rice",
+                    "Prawn crackers",
+                    "Green beans with chilli salt",
+                    "Stir-fried Sichuan cabbage"
+                ],
+                "dessert": [
+                    "Coconut and lime rice pudding"
+                ]
+            },
+            "Tuesday": {
+                "main": [
+                    "Chef’s special",
+                    "An opportunity for your hall chef’s team to demonstrate their culinary skills"
+                ],
+                "side": [],
+                "dessert": []
+            },
+            "Wednesday": {
+                "main": [
+                    "Tuscan orzo (v)",
+                    "Spiced lentil plant-based feta stuffed peppers (vg)",
+                    "Fusilli with veggie meatballs in tomato sauce (v)"
+                ],
+                "side": [
+                    "Patatas bravas",
+                    "Sweetcorn",
+                    "Roasted paprika vegetables"
+                ],
+                "dessert": [
+                    "Tres leches"
+                ]
+            },
+            "Thursday": {
+                "main": [
+                    "Mushroom ravioli in a creamy garlic sauce (v)",
+                    "Spicy squash risotto (vg)"
+                ],
+                "side": [
+                    "Garlic bread",
+                    "Potato wedges",
+                    "Green beans",
+                    "Roasted carrots"
+                ],
+                "dessert": [
+                    "Chocolate and honeycomb mousse"
+                ]
+            },
+            "Friday": {
+                "main": [
+                    "Quorn dipper (v)",
+                    "Quorn sausage roll (vg)",
+                    "Penne with Arrabiata (vg)"
+                ],
+                "side": [
+                    "Chunky chips",
+                    "Garden peas",
+                    "Baked beans"
+                ],
+                "dessert": [
+                    "Butterscotch tart"
+                ]
+            },
+            "Saturday": {
+                "main": [
+                    "Mock chicken burger (v)",
+                    "Spicy bean burger (vg)"
+                ],
+                "side": [
+                    "Fries",
+                    "Gherkins, jalapenos and sliced cheese",
+                    "Homemade slaw",
+                    "Sweetcorn"
+                ],
+                "dessert": [
+                    "Assorted doughnuts"
+                ]
+            },
+            "Sunday": {
+                "main": [
+                    "Creamy vegetable pie (v)",
+                    "Sweet potato cottage pie (vg)"
+                ],
+                "side": [
+                    "Roast potatoes",
+                    "Steamed broccoli",
+                    "Sliced carrots",
+                    "Gravy"
+                ],
+                "dessert": [
+                    "Chocolate eclairs"
+                ]
+            }
+        }
+    }
+}
