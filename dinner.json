@@ -1,21 +1,21 @@
 {
     "weeks": {
         "week-3": [
-            "27\/01",
-            "17\/02",
-            "10\/03"
+            "27/01",
+            "17/02",
+            "10/03"
         ],
         "week-2": [
-            "20\/01",
-            "10\/02",
-            "03\/03",
-            "24\/03"
+            "20/01",
+            "10/02",
+            "03/03",
+            "24/03"
         ],
         "week-1": [
-            "13\/01",
-            "03\/02",
-            "24\/02",
-            "17\/04"
+            "13/01",
+            "03/02",
+            "24/02",
+            "17/04"
         ]
     },
     "menu": {
@@ -56,7 +56,7 @@
             },
             "Saturday": {
                 "side": [
-                    "Fries","
+                    "Fries",
                     "Onion rings",
                     "Mini corn on the cob"
                 ],
@@ -79,7 +79,7 @@
                     "Gravy"
                 ],
                 "main": [
-                    "Roast beef".
+                    "Roast beef",
                     "Chicken and leek pie",
                     "Vegetable pie (v)",
                     "Moroccan chickpea filo pie (vg)"
@@ -255,7 +255,7 @@
                 "main": [
                     "Braised pork with plums",
                     "Chinese dark soy chilli chicken",
-                    "Crispy Quorn pieces in a Korean sesame-chilli sauce (v",)
+                    "Crispy Quorn pieces in a Korean sesame-chilli sauce (v)",
                     "Korean sesame tofu and vegetables (vg)",
                     "Linguine with mascarpone sauce (v)"
                 ],
@@ -281,7 +281,7 @@
                 ]
             },
             "Saturday": {
-                "side": [","
+                "side": [
                     "Spicy rice",
                     "Tortilla chips",
                     "Spiced corn",
@@ -347,7 +347,7 @@
                     "Roasted curried cauliflower"
                 ],
                 "main": [
-                    "Beef jalfrezi with rice
+                    "Beef jalfrezi with rice",
                     "Tandoori chicken breast with mint yoghurt and rice",
                     "Vegetable rogan josh with rice (v)",
                     "Sri Lankan vegetable curry with rice (vg)",
