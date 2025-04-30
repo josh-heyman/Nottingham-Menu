@@ -150,19 +150,19 @@
             },
             "Friday": {
                 "side": [
-                    "Potato wedges",
-                    "Peas and sweetcorn",
-                    "Beans"
+                    "Chips","
+                    "Garden peas",
+                    "Baked beans"
                 ],
                 "main": [
-                    "Fish po’boy sub",
-                    "Currywurst hot dog",
-                    "Veggie currywurst hot dog (v)",
-                    "Plant based Cajun po’boy sub (vg)",
-                    "Wholegrain spaghetti with tomato and basil sauce (vg)"
+                    "Battered fish of the day",
+                    "Cajun chicken skewer",
+                    "Quorn nuggets with BBQ sauce (v)",
+                    "Phat chunky plant-based sausage roll (vg)",
+                    "Arrabiata sauce with fusilli (vg)"
                 ],
                 "dessert": [
-                    "Fruit platter"
+                    "Cherry amaretti fool or fruit salad"
                 ]
             },
             "Saturday": {
@@ -172,49 +172,47 @@
                     "Sour cream, guacamole, salsa and jalapenos"
                 ],
                 "main": [
-                    "Chicken burrito",
-                    "Chilli beef soft shell taco",
-                    "Mexican bean chilli soft shell taco (v)",
-                    "Balti burrito (vg)"
+                    "Chicken enchiladas",
+                    "Pulled pork in a brioche style bun",
+                    "Squash and mixed bean enchiladas (v)",
+                    "Quorn balls marinara roll (vg)"
                 ],
                 "dessert": [
-                    "Chocolate fudge cake"
+                    "Honeycomb slice or fruit salad"
                 ]
             },
             "Sunday": {
                 "side": [
-                    "Roasted baby potatoes",
+                    "Classic roast potatoes",
                     "Steamed broccoli",
-                    "Baton carrots",
-                    "Stuffing balls",
+                    "Baby carrots",
                     "Gravy"
                 ],
                 "main": [
-                    "Roast turkey",
-                    "Grilled gammon steak",
-                    "Cheddar, swede and leek pie (v)",
-                    "Soya mince and lentil cottage pie (vg)"
+                    "Roast beef with Yorkshire pudding",
+                    "Chicken, mushroom and leek gratin",
+                    "Quorn, mushroom and leek gratin (v)",
+                    "Linda McCartney plant- based sausages (vg)"
                 ],
                 "dessert": [
-                    "Assorted doughnuts"
+                    "Assorted muffins or fruit salad"
                 ]
             },
             "Wednesday": {
                 "side": [
-                    "Mashed potatoes",
-                    "Yorkshire puddings",
-                    "Peas",
-                    "Gravy"
+                    "Sauté potatoes",
+                    "Sweetcorn",
+                    "Spring Cabbage"
                 ],
                 "main": [
-                    "Pork and leek sausage",
-                    "Venison and mustard sausage",
-                    "Quorn Cumberland sausage (v)",
-                    "Plant based sausage (vg)",
-                    "Farfalle with tomato and mascarpone sauce (v)"
+                    "Glazed pork steaks",
+                    "Mediterranean chicken drumsticks",
+                    "Cheese tortellini with tomato and basil sauce (v)",
+                    "Aubergine caponata (vg)",
+                    "Red pesto with penne (v)"
                 ],
                 "dessert": [
-                    "Build your own crumble bar"
+                    "BS'mores bars or fruit salad"
                 ]
             },
             "Tuesday": {
@@ -227,19 +225,19 @@
             },
             "Thursday": {
                 "side": [
-                    "Lyonnaise potatoes",
-                    "Sautéed cabbage",
-                    "Roasted root vegetables"
+                    "Rice",
+                    "Cauliflower",
+                    "Green beans"
                 ],
                 "main": [
-                    "Chimichurri pork steak",
-                    "Chicken parmigiana",
-                    "Cauliflower mac’n’cheese (v)",
-                    "Beetroot and plant-based feta risotto (vg)",
-                    "Fusilli with basil pesto and cherry tomatoes (v)"
+                    "Pulled chicken curry naanwich",
+                    "Lamb rogan josh with chapati bread",
+                    "Tofu and vegetable curry with chapati bread (v)",
+                    "Plant-based cauliflower and spinach balti pie (vg)",
+                    "Tomato and mascarpone with linguine (v)"
                 ],
                 "dessert": [
-                    "Raspberry panna cotta"
+                    "Pina colada lush pudding or fruit salad"
                 ]
             }
         },
